@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/banner.png" alt="NorthBound Intelligence: We find it first." width="100%">
+  <img src="https://raw.githubusercontent.com/NB-INT/.github/main/assets/banner.png" alt="NorthBound Intelligence: We find it first." width="100%">
 </p>
 
 **NorthBound Intelligence** is a human-led exposure intelligence and continuous penetration testing firm.
